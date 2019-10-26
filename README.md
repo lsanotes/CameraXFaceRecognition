@@ -1,0 +1,2 @@
+# XFaceRec
+CameraX + Face Recognition
